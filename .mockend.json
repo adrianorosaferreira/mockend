@@ -9,5 +9,11 @@
     "Comment": {
       "body": "string",
       "post": "Post"
+    },
+    "Club": {
+      "id": "number",
+      "guid": "string",
+      "label": "string",
+      "name": "string"
     }
   }
